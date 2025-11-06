@@ -1,4 +1,4 @@
-#!/bin/python3.10
+#!/bin/python3
 # -*- coding: utf-8 -*-
 __OWN__ = "Nguyễn Xuân Trịnh & Phạm Anh Tiến"
 __OBF__ = "PyHydra"
