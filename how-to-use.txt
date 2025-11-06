@@ -1,0 +1,1 @@
+git clone https://github.com/TamNguyenZ/tool-win-installer-by-tam.git && cd tool-win-installer-by-tam && bash wininstaller.sh && bash runpy.sh
