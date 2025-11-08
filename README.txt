@@ -6,7 +6,8 @@ About win-installer
 This is an easier qemu creation tool with the most optimized build possible and uses a k host cpu 
 (✅NO KVM NEEDED)
 Pls Cre TamNguyen if you want to share it, Thanks
-
+Debian Is Supported✅ (Recommend)
+Ubuntu Is Unsupported❌ ( Maybe Support )
 
 HOW TO USE ?🤔
 
